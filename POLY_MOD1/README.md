@@ -76,7 +76,7 @@ npx hardhat run scripts/approveDeposit.js --network goerli
 
 ## Author
 
-
+Nabil Yar Khan
 
 ## License
 
